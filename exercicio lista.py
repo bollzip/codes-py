@@ -1,0 +1,5 @@
+lista = (4, 8, 9 ,5, 7)
+print  (max(lista))
+print  (min(lista))
+print  (len(lista))
+print (sum(lista))
